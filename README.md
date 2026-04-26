@@ -3,7 +3,7 @@ Hi 👋, I'm Beesoon Keshnee
 </h1>
 
 <h3 align="center">
-Computer Science Student | 
+Software Engineer Student | 
 Full-Stack Developer | 
 Open to Opportunities 🚀
 </h3>
